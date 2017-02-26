@@ -1,0 +1,3 @@
+https://github.com/joshski/heroku-buildpack-apt
+https://github.com/captain401/heroku-buildpack-xvfb.git
+https://github.com/heroku/heroku-buildpack-nodejs.git
